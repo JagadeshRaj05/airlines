@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "        Abhishek",
+    "lastName": "Kumar",
+    "pnr": "ABC123",
+    "fareClass":"F",
+    "travelDate": "2019-07-31",
+    "pax": 2,
+    "dateOfBooking": "2019-05-21",
+    "email": "abhishekzzzcom",
+    "mobile": 9876543210,
+    "cabin": " Economy"
+  },
+  {
+    "firstName": "Monin",
+    "lastName": "Sankar",
+    "pnr": "PQ234",
+    "fareClass": "C",
+    "travelDate": "2019-08-30",
+    "pax": 2,
+    "dateOfBooking": "2019-05-22",
+    "email": "monin@zzz.com",
+    "mobile": 9876543211,
+    "cabin": "Economy"
+  },
+  {
+    "firstName": "Radhika",
+    "lastName": "Suresh",
+    "pnr": "ZZZ345",
+    "fareClass": "R",
+    "travelDate": "2019-05-31",
+    "pax": 4,
+    "dateOfBooking": "2019-05-21",
+    "email": "radhika@zzz",
+    "mobile": 9876543212,
+    "cabin": "Business "
+  },
+  {
+    "firstName": "Kalyani",
+    "lastName": "Ben",
+    "pnr": "A1B2C3",
+    "fareClass": "F",
+    "travelDate": "2019-04-30",
+    "pax": 1,
+    "dateOfBooking": "2019-05-21",
+    "email": "kben@zzz.com",
+    "mobile": 9876543213,
+    "cabin": "Premium Economy"
+  },
+  {
+    "firstName": "Somnath",
+    "lastName": "Batra",
+    "pnr": "X1Y2Z4",
+    "fareClass": "A",
+    "travelDate": "2019-07-25",
+    "pax": 3,
+    "dateOfBooking": "2019-05-23",
+    "email": "sbatra@zzz.com",
+    "mobile": 9876543214,
+    "cabin": "Economy"
+  }
+]
